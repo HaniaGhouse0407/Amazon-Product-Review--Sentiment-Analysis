@@ -1,5 +1,7 @@
 # Amazon-Product-Review--Sentiment-Analysis
 Project Title: Sentiment Analysis of Product Reviews using Natural Language Processing
+
+
 Project Description: In this project, the intern will be building a sentiment analysis model using
 Natural Language Processing (NLP) to classify product reviews into positive, negative, or
 neutral sentiment. The dataset used for this project is the Amazon Product Reviews dataset that
